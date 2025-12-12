@@ -1,0 +1,9 @@
+body {
+            margin: 20px;
+            color: purple;
+        }
+/* Styles pour le formulaire de contact */
+form { max-width: 400px; margin: 20px; }
+label { display: block; margin: 10px 0; }
+input, textarea { width: 100%; padding: 5px; }
+button { background: #007bff; color: white; padding: 10px; border: none; cursor: pointer; }
